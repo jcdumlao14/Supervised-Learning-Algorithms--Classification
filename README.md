@@ -6,4 +6,6 @@ Logistic Regression, Multi-Class and Model Evaluation
 
 2. [Logistic Regression for Advertisement](https://github.com/jcdumlao14/Supervised-Learning-Algorithms--Classification/blob/main/2_LogisticRegAdvertisement.ipynb)
  
-3.
+3. [Decision Tree Classifier](https://github.com/jcdumlao14/Supervised-Learning-Algorithms--Classification/blob/main/3_Supervised_Algorithms_Classification_DecisionTreeClassifier_Exercise.ipynb)
+
+4. [

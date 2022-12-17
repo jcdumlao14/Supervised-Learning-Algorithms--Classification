@@ -9,3 +9,4 @@ Logistic Regression, Multi-Class and Model Evaluation
 3. [Decision Tree Classifier -Sonar Dataset](https://github.com/jcdumlao14/Supervised-Learning-Algorithms--Classification/blob/main/3_Supervised_Algorithms_Classification_DecisionTreeClassifier_Exercise.ipynb)
 
 4. [Support Vector Machine(SVM)-Classifier- Breast Cancer](https://github.com/jcdumlao14/Supervised-Learning-Algorithms--Classification/blob/main/4_SupportVectorMachine_BreastCancer.ipynb)
+##
